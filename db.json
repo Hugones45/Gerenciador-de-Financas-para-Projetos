@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "vida individual",
+      "budget": "45000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 30000,
+      "services": [
+        {
+          "name": "222222",
+          "cost": "45000",
+          "description": "teste",
+          "id": "724fc591-d73c-450d-937c-8d431f8b3e80"
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
